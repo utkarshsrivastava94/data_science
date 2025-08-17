@@ -1,5 +1,3 @@
-# data_science
-
 # Electricity Load Forecasting with FastAPI
 
 This project implements an end-to-end machine learning pipeline for **hourly electricity load forecasting** using historical demand and weather data. It includes model training, saving, and serving real-time predictions via a FastAPI-based REST API.
